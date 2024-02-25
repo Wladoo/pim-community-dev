@@ -1,0 +1,3071 @@
+repo_name: Wladoo/pim-community-dev
+report_id: 782842a34d5a64a6585fd25c1d404e04
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-25T10:38:17+00:00'
+requested_by: StevenVAIDIE
+provider: github
+branch: master
+detected_tools_count: 227
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: Gherkin
+  description: A plain-text language with a simple structure
+  website_url: https://cucumber.io/docs/gherkin/reference/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/src/Acme/Bundle/AppBundle/Resources/fixtures/colors.sql
+  detection_source: src/Acme/Bundle/AppBundle/Resources/fixtures/colors.sql
+  last_updated_by: Julien Janvier (jjanvier)
+  last_updated_on: 2015-04-09 08:41:31.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/package.json
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Valentin Dijkstra
+  last_updated_on: 2020-08-12 09:09:02.000000000 Z
+- name: Backbone.js
+  description: Give your JS App some Backbone with Models, Views, Collections, and
+    Events
+  website_url: http://backbonejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: jmleroux
+  last_updated_on: 2021-02-16 14:52:36.000000000 Z
+- name: DraftJS
+  description: A framework for building rich text editors
+  website_url: https://draftjs.org
+  version: 0.10.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5388/9xvwNLlR_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2021-04-23 13:09:28.000000000 Z
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2022-12-07 13:31:31.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 3.13.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Filips Alpe
+  last_updated_on: 2015-04-08 11:46:56.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/components/identifier-generator/front/package.json
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Celine Morin
+  last_updated_on: 2022-09-13 14:05:44.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.1.2
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: nicomaligne
+  last_updated_on: 2020-08-05 14:45:36.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 15:35:32.000000000 Z
+- name: Symfony
+  description: A PHP full-stack web framework
+  website_url: http://symfony.com/
+  version: 5.4.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: Twig
+  description: A flexible, fast, and secure template engine
+  website_url: https://twig.symfony.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1642/default_3debd3a9a6d757c011130c7a9626e7c3bd8be945.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Nicolas-Dupont
+  last_updated_on: 2012-08-10 17:46:38.000000000 Z
+- name: Victory
+  description: ReactJS library for building interactive data visualizations
+  website_url: http://formidable.com/open-source/victory/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/6115/default_991927763182707c7c8d92503b25c7fa09c0de2a.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: nicomaligne
+  last_updated_on: 2020-08-05 14:45:36.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Thomas Ramel
+  last_updated_on: 2022-05-30 16:14:02.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Céline Morin
+  last_updated_on: 2023-08-04 14:08:01.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-11-08 14:25:30.000000000 Z
+- name: Doctrine 2
+  description: An object-relational mapper (ORM) for PHP 5.3.2+ that provides transparent
+    persistence for PHP objects
+  website_url: http://www.doctrine-project.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1232/_BKTHxZk.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-11-08 17:26:32.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: BryanS29-akeneo
+  last_updated_on: 2022-09-20 16:31:28.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 8.0.30
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Damien Carcel
+  last_updated_on: 2017-07-01 12:35:27.000000000 Z
+- name: migra
+  description: A schema diff tool for PostgreSQL
+  website_url: https://migra.djrobstep.com/
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: jean-marie leroux
+  last_updated_on: 2021-11-09 18:06:54.000000000 Z
+- name: Apache HTTP Server
+  description: Open-source HTTP server for modern operating systems including UNIX
+    and Windows
+  website_url: https://httpd.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1051/default_9e444e0d6cc9f4f55f1b86979900673af4de46aa.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Benjamin Letellier
+  last_updated_on: 2023-06-05 09:27:58.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Samir
+  last_updated_on: 2020-09-29 13:59:00.000000000 Z
+- name: Behat
+  description: A BDD framework for testing your business expectations
+  website_url: http://behat.org
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1650/7f2139b4b5176b422459c609be965b1e_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: Blackfire.io
+  description: Blackfire.io enables developers to continuously measure &amp; improve
+    their code performance in dev, test, staging and prod.
+  website_url: https://www.blackfire.io/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Performance Monitoring
+  image_url: https://img.stackshare.io/service/2604/t-FQBCA1.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Aymeric Planche
+  last_updated_on: 2021-05-19 07:28:23.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Tseho
+  last_updated_on: 2022-09-08 16:00:44.000000000 Z
+- name: Cucumber
+  description: Simple, human collaboration.
+  website_url: https://cukes.info/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2544/jasVAxyJ.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2020-11-27 08:25:43.000000000 Z
+- name: Cypress
+  description: When testing is easy, developers build better things faster and with
+    confidence.
+  website_url: https://www.cypress.io/
+  version: 6.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2021-03-19 08:09:07.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: Tamara Robichet
+  last_updated_on: 2017-04-19 08:55:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/.github/workflows/dsm-extract.yml
+  detection_source: ".github/workflows/dsm-extract.yml"
+  last_updated_by: Valentin Dijkstra
+  last_updated_on: 2021-11-12 09:17:21.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 24.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Celine Morin
+  last_updated_on: 2022-09-13 14:05:44.000000000 Z
+- name: LiveReload
+  description: CSS edits and image changes apply live. CoffeeScript, SASS, LESS and
+    others just work.
+  website_url: http://livereload.com
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Live Reloading
+  image_url: https://img.stackshare.io/service/2601/128.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: Logstash
+  description: Collect, Parse, &amp; Enrich Data
+  website_url: http://logstash.net/
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Nicolas-Dupont
+  last_updated_on: 2012-08-10 17:46:38.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/package.json
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Valentin Dijkstra
+  last_updated_on: 2020-08-12 09:09:02.000000000 Z
+- name: PHPStan
+  description: PHP Static Analysis Tool - discover bugs in your code without running
+    it!
+  website_url: https://github.com/phpstan/phpstan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/8333/phpst.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Nicolas-Dupont
+  last_updated_on: 2012-08-10 17:46:38.000000000 Z
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: 9.5.27
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Nicolas-Dupont
+  last_updated_on: 2012-08-10 17:46:38.000000000 Z
+- name: PhpSpec
+  description: A  toolset for behavior driven development
+  website_url: http://www.phpspec.net/en/latest/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Nicolas-Dupont
+  last_updated_on: 2012-08-10 17:46:38.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Celine Morin
+  last_updated_on: 2022-10-04 13:49:05.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/package.json
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Julien Sanchez
+  last_updated_on: 2020-08-14 12:36:38.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/src/Akeneo/Tool/Bundle/BatchBundle/.travis.yml
+  detection_source: src/Akeneo/Tool/Bundle/BatchBundle/.travis.yml
+  last_updated_by: Nicolas Dupont
+  last_updated_on: 2016-05-07 10:48:09.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.42.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/example/yarn.lock
+  last_updated_by: Tseho
+  last_updated_on: 2020-09-25 14:44:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Filips Alpe
+  last_updated_on: 2015-04-08 11:46:56.000000000 Z
+- name: ElasticHosts Cloud Servers
+  description: Cloud hosting that's easy to use when you need scalable, flexible VPS
+    capacity on demand
+  website_url: https://www.elastichosts.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Cloud Hosting
+  image_url: https://img.stackshare.io/service/21/Br4cEBV6.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/.github/actions/extract/Dockerfile
+  detection_source: ".github/actions/extract/Dockerfile"
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2020-08-14 14:53:57.000000000 Z
+- name: Context.IO
+  description: A REST email API that makes it easy and fast to integrate your user's
+    email data in your application.
+  website_url: http://context.io
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: romain
+  last_updated_on: 2019-10-07 17:25:42.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  version: 8.4.2
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-11-28 16:06:18.000000000 Z
+- name: Formik
+  description: Build forms in React
+  website_url: https://jaredpalmer.com/formik/
+  version: 2.2.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Web Forms
+  image_url: https://img.stackshare.io/service/8846/preview.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Chasle
+  last_updated_on: 2019-11-25 15:11:37.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.20
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Chasle
+  last_updated_on: 2020-01-20 09:47:48.000000000 Z
+- name: Luxon
+  description: Library for working with dates and times in Javascript
+  website_url: https://moment.github.io/luxon/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2021-04-23 13:09:28.000000000 Z
+- name: Monolog
+  website_url: https://github.com/Seldaek/monolog
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9170/183678.jpeg
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev
+  detection_source: Repo Metadata
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-01 14:49:14.000000000 Z
+- name: ass/xmlsecurity
+  description: The XmlSecurity library is written in PHP for working with XML Encryption
+    and Signatures
+  package_url: https://packagist.org/ass/xmlsecurity
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: jean-marie leroux
+  last_updated_on: 2021-11-30 10:32:59.000000000 Z
+- name: aws/aws-sdk-php
+  description: AWS SDK for PHP - Use Amazon Web Services in your PHP project
+  package_url: https://packagist.org/aws/aws-sdk-php
+  version: 3.253.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: behat/mink-selenium2-driver
+  description: Selenium2
+  package_url: https://packagist.org/behat/mink-selenium2-driver
+  version: 1.6.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: blackfire/php-sdk
+  description: Blackfire.io PHP SDK
+  package_url: https://packagist.org/blackfire/php-sdk
+  version: 1.31.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/annotations
+  description: Docblock Annotations Parser
+  package_url: https://packagist.org/doctrine/annotations
+  version: 1.13.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: doctrine/cache
+  description: PHP Doctrine Cache library is a popular cache implementation that supports
+    many different drivers such as redis
+  package_url: https://packagist.org/doctrine/cache
+  version: 1.13.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/collections
+  description: PHP Doctrine Collections library that adds additional functionality
+    on top of PHP arrays
+  package_url: https://packagist.org/doctrine/collections
+  version: 1.8.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: doctrine/common
+  description: PHP Doctrine Common project is a library that provides additional functionality
+    that other Doctrine projects depend on such as better reflection support
+  package_url: https://packagist.org/doctrine/common
+  version: 3.4.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/data-fixtures
+  description: Data Fixtures for all Doctrine Object Managers
+  package_url: https://packagist.org/doctrine/data-fixtures
+  version: 1.5.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/dbal
+  description: Powerful PHP database abstraction layer
+  package_url: https://packagist.org/doctrine/dbal
+  version: 2.13.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/doctrine-bundle
+  description: Symfony DoctrineBundle
+  package_url: https://packagist.org/doctrine/doctrine-bundle
+  version: 2.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: doctrine/doctrine-fixtures-bundle
+  description: Symfony DoctrineFixturesBundle
+  package_url: https://packagist.org/doctrine/doctrine-fixtures-bundle
+  version: 3.4.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: doctrine/doctrine-migrations-bundle
+  description: Symfony DoctrineMigrationsBundle
+  package_url: https://packagist.org/doctrine/doctrine-migrations-bundle
+  version: 3.2.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: doctrine/event-manager
+  description: The Doctrine Event Manager is a simple PHP event system that was built
+    to be used with the various Doctrine projects
+  package_url: https://packagist.org/doctrine/event-manager
+  version: 1.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/instantiator
+  description: A small
+  package_url: https://packagist.org/doctrine/instantiator
+  version: 1.4.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: doctrine/migrations
+  description: PHP Doctrine Migrations project offer additional functionality on top
+    of the database abstraction layer
+  package_url: https://packagist.org/doctrine/migrations
+  version: 3.4.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: doctrine/orm
+  description: Object-Relational-Mapper for PHP
+  package_url: https://packagist.org/doctrine/orm
+  version: 2.13.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: doctrine/persistence
+  description: The Doctrine Persistence project is a set of shared interfaces and
+    functionality that the different Doctrine object mappers share
+  package_url: https://packagist.org/doctrine/persistence
+  version: 2.5.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: dompdf/dompdf
+  description: DOMPDF is a CSS 2.1 compliant HTML to PDF converter
+  package_url: https://packagist.org/dompdf/dompdf
+  version: 2.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Pierre Maraître
+  last_updated_on: 2023-04-06 09:22:11.000000000 Z
+- name: elasticsearch/elasticsearch
+  description: PHP Client for Elasticsearch
+  package_url: https://packagist.org/elasticsearch/elasticsearch
+  version: 7.11.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Nicolas Marniesse
+  last_updated_on: 2021-03-24 07:43:25.000000000 Z
+- name: friends-of-behat/symfony-extension
+  description: Integrates Behat with Symfony
+  package_url: https://packagist.org/friends-of-behat/symfony-extension
+  version: 2.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: friendsofphp/php-cs-fixer
+  description: A tool to automatically fix PHP code style
+  package_url: https://packagist.org/friendsofphp/php-cs-fixer
+  version: 3.13.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: friendsofsymfony/jsrouting-bundle
+  description: A pretty nice way to expose your Symfony routing to client applications
+  package_url: https://packagist.org/friendsofsymfony/jsrouting-bundle
+  version: 3.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: friendsofsymfony/rest-bundle
+  description: This Bundle provides various tools to rapidly develop RESTful API's
+    with Symfony
+  package_url: https://packagist.org/friendsofsymfony/rest-bundle
+  version: 3.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: gedmo/doctrine-extensions
+  description: Doctrine behavioral extensions
+  package_url: https://packagist.org/gedmo/doctrine-extensions
+  version: 3.10.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: guzzlehttp/guzzle
+  description: Guzzle is a PHP HTTP client library
+  package_url: https://packagist.org/guzzlehttp/guzzle
+  version: 7.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2022-12-07 13:31:31.000000000 Z
+- name: imagine/imagine
+  description: Image processing for PHP 5.3
+  package_url: https://packagist.org/imagine/imagine
+  version: 1.3.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: lcobucci/jwt
+  description: A simple library to work with JSON Web Token and JSON Web Signature
+  package_url: https://packagist.org/lcobucci/jwt
+  version: 4.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Thomas Ramel
+  last_updated_on: 2022-12-13 16:37:58.000000000 Z
+- name: league/flysystem
+  description: File storage abstraction for PHP
+  package_url: https://packagist.org/league/flysystem
+  version: 3.11.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2022-12-08 14:36:54.000000000 Z
+- name: league/flysystem-aws-s3-v3
+  description: AWS S3 filesystem adapter for Flysystem
+  package_url: https://packagist.org/league/flysystem-aws-s3-v3
+  version: 3.10.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: league/flysystem-memory
+  description: In-memory filesystem adapter for Flysystem
+  package_url: https://packagist.org/league/flysystem-memory
+  version: 3.10.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2022-12-08 14:36:54.000000000 Z
+- name: liip/imagine-bundle
+  description: This bundle provides an image manipulation abstraction toolkit for
+    Symfony-based projects
+  package_url: https://packagist.org/liip/imagine-bundle
+  version: 2.10.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: maennchen/zipstream-php
+  description: ZipStream is a library for dynamically streaming dynamic zip files
+    from PHP without writing to the disk at all on the server
+  package_url: https://packagist.org/maennchen/zipstream-php
+  version: 2.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: monolog/monolog
+  description: Sends your logs to files
+  package_url: https://packagist.org/monolog/monolog
+  version: 2.8.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: ocramius/proxy-manager
+  description: A library providing utilities to generate
+  package_url: https://packagist.org/ocramius/proxy-manager
+  version: 2.11.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: oneup/flysystem-bundle
+  description: Integrates Flysystem filesystem abstraction library to your Symfony
+    project
+  package_url: https://packagist.org/oneup/flysystem-bundle
+  version: 4.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: phpseclib/phpseclib
+  description: PHP Secure Communications Library - Pure-PHP implementations of RSA
+  package_url: https://packagist.org/phpseclib/phpseclib
+  version: 3.0.17
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: phpspec/phpspec
+  description: Specification-oriented BDD framework for PHP 7.1+
+  package_url: https://packagist.org/phpspec/phpspec
+  version: 7.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: phpspec/prophecy
+  description: Highly opinionated mocking framework for PHP 5.3+
+  package_url: https://packagist.org/phpspec/prophecy
+  version: 1.16.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: phpstan/phpstan
+  description: PHPStan - PHP Static Analysis Tool
+  package_url: https://packagist.org/phpstan/phpstan
+  version: 1.9.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: phpstan/phpstan-deprecation-rules
+  description: PHPStan rules for detecting usage of deprecated classes
+  package_url: https://packagist.org/phpstan/phpstan-deprecation-rules
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: phpstan/phpstan-symfony
+  description: Symfony Framework extensions and rules for PHPStan
+  package_url: https://packagist.org/phpstan/phpstan-symfony
+  version: 1.2.16
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: phpstan/phpstan-webmozart-assert
+  description: PHPStan webmozart/assert extension
+  package_url: https://packagist.org/phpstan/phpstan-webmozart-assert
+  version: 1.2.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  version: 9.5.27
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: psr/event-dispatcher
+  description: Standard interfaces for event handling
+  package_url: https://packagist.org/psr/event-dispatcher
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: jean-marie leroux
+  last_updated_on: 2021-11-30 10:32:59.000000000 Z
+- name: ramsey/uuid
+  description: A PHP library for generating and working with universally unique identifiers
+  package_url: https://packagist.org/ramsey/uuid
+  version: 4.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-12 14:59:19.000000000 Z
+- name: ramsey/uuid-doctrine
+  description: Use ramsey/uuid as a Doctrine field type
+  package_url: https://packagist.org/ramsey/uuid-doctrine
+  version: 1.8.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-12 14:59:19.000000000 Z
+- name: sensiolabs/behat-page-object-extension
+  description: Page object extension for Behat
+  package_url: https://packagist.org/sensiolabs/behat-page-object-extension
+  version: 2.3.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: squizlabs/php_codesniffer
+  description: PHP_CodeSniffer tokenizes PHP
+  package_url: https://packagist.org/squizlabs/php_codesniffer
+  version: 3.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: anthony-grandin
+  last_updated_on: 2022-12-14 08:44:50.000000000 Z
+- name: symfony/asset
+  description: Manages URL generation and versioning of web assets such as CSS stylesheets
+  package_url: https://packagist.org/symfony/asset
+  version: 5.4.13
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/cache
+  description: Provides extended PSR-6, PSR-16
+  package_url: https://packagist.org/symfony/cache
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/config
+  description: Helps you find
+  package_url: https://packagist.org/symfony/config
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/debug-bundle
+  description: Provides a tight integration of the Symfony VarDumper component and
+    the ServerLogCommand from MonologBridge into the Symfony full-stack framework
+  package_url: https://packagist.org/symfony/debug-bundle
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: symfony/dependency-injection
+  description: Allows you to standardize and centralize the way objects are constructed
+    in your application
+  package_url: https://packagist.org/symfony/dependency-injection
+  version: 5.4.16
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: symfony/dotenv
+  description: Registers environment variables from a .env file
+  package_url: https://packagist.org/symfony/dotenv
+  version: 5.4.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/event-dispatcher
+  description: Provides tools that allow your application components to communicate
+    with each other by dispatching events and listening to them
+  package_url: https://packagist.org/symfony/event-dispatcher
+  version: 5.4.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/filesystem
+  description: Provides basic utilities for the filesystem
+  package_url: https://packagist.org/symfony/filesystem
+  version: 5.4.13
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/finder
+  description: Finds files and directories via an intuitive fluent interface
+  package_url: https://packagist.org/symfony/finder
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/flex
+  description: Composer plugin for Symfony
+  package_url: https://packagist.org/symfony/flex
+  version: 1.19.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/form
+  description: Allows to easily create, process and reuse HTML forms
+  package_url: https://packagist.org/symfony/form
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: symfony/http-foundation
+  description: Defines an object-oriented layer for the HTTP specification
+  package_url: https://packagist.org/symfony/http-foundation
+  version: 5.4.16
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: symfony/http-kernel
+  description: Provides a structured process for converting a Request into a Response
+  package_url: https://packagist.org/symfony/http-kernel
+  version: 5.4.16
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/intl
+  description: Provides a PHP replacement layer for the C intl extension that includes
+    additional data from the ICU library
+  package_url: https://packagist.org/symfony/intl
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/lock
+  description: Creates and manages locks
+  package_url: https://packagist.org/symfony/lock
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/mailer
+  description: Helps sending emails
+  package_url: https://packagist.org/symfony/mailer
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/messenger
+  description: Helps applications send and receive messages to/from other applications
+    or via message queues
+  package_url: https://packagist.org/symfony/messenger
+  version: 5.4.14
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/monolog-bundle
+  description: Symfony MonologBundle
+  package_url: https://packagist.org/symfony/monolog-bundle
+  version: 3.8.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: symfony/options-resolver
+  description: Provides an improved replacement for the array_replace PHP function
+  package_url: https://packagist.org/symfony/options-resolver
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: symfony/polyfill-apcu
+  description: Symfony polyfill backporting apcu_* functions to lower PHP versions
+  package_url: https://packagist.org/symfony/polyfill-apcu
+  version: 1.27.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/process
+  description: Executes commands in sub-processes
+  package_url: https://packagist.org/symfony/process
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/property-access
+  description: Provides functions to read and write from/to an object or array using
+    a simple string notation
+  package_url: https://packagist.org/symfony/property-access
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/proxy-manager-bridge
+  description: Provides integration for ProxyManager with various Symfony components
+  package_url: https://packagist.org/symfony/proxy-manager-bridge
+  version: 5.4.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/requirements-checker
+  description: Check Symfony requirements and give recommendations
+  package_url: https://packagist.org/symfony/requirements-checker
+  version: 2.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: symfony/routing
+  description: Maps an HTTP request to a set of configuration variables
+  package_url: https://packagist.org/symfony/routing
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/security-acl
+  description: Symfony Security Component - ACL
+  package_url: https://packagist.org/symfony/security-acl
+  version: 3.3.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/security-bundle
+  description: Provides a tight integration of the Security component into the Symfony
+    full-stack framework
+  package_url: https://packagist.org/symfony/security-bundle
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: symfony/security-core
+  description: Symfony Security Component - Core Library
+  package_url: https://packagist.org/symfony/security-core
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/security-csrf
+  description: Symfony Security Component - CSRF Library
+  package_url: https://packagist.org/symfony/security-csrf
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/security-http
+  description: Symfony Security Component - HTTP Integration
+  package_url: https://packagist.org/symfony/security-http
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/templating
+  description: Provides all the tools needed to build any kind of template system
+  package_url: https://packagist.org/symfony/templating
+  version: 5.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: symfony/translation
+  description: Provides tools to internationalize your application
+  package_url: https://packagist.org/symfony/translation
+  version: 5.4.14
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: symfony/twig-bundle
+  description: Provides a tight integration of Twig into the Symfony full-stack framework
+  package_url: https://packagist.org/symfony/twig-bundle
+  version: 5.4.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: symfony/validator
+  description: Provides tools to validate values
+  package_url: https://packagist.org/symfony/validator
+  version: 5.4.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-04-04 17:00:42.000000000 Z
+- name: symfony/web-profiler-bundle
+  description: Provides a development tool that gives detailed information about the
+    execution of any request
+  package_url: https://packagist.org/symfony/web-profiler-bundle
+  version: 5.4.14
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: symfony/yaml
+  description: Loads and dumps YAML files
+  package_url: https://packagist.org/symfony/yaml
+  version: 5.4.16
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2023-01-13 11:11:54.000000000 Z
+- name: twig/twig
+  description: Twig
+  package_url: https://packagist.org/twig/twig
+  version: 3.4.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: jean-marie leroux
+  last_updated_on: 2021-11-30 10:32:59.000000000 Z
+- name: vimeo/psalm
+  description: A static analysis tool for finding errors in PHP applications
+  package_url: https://packagist.org/vimeo/psalm
+  version: 5.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: Grégoire Houssard
+  last_updated_on: 2022-12-08 13:21:28.000000000 Z
+- name: webmozart/assert
+  description: Assertions to validate method input/output with nice error messages
+  package_url: https://packagist.org/webmozart/assert
+  version: 1.11.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: jean-marie leroux
+  last_updated_on: 2022-11-15 13:32:43.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-01 14:49:14.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2021-10-14 15:02:55.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@storybook/addon-a11y"
+  description: A11y addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-a11y
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17117/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 15:35:32.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 15:35:32.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 15:35:32.000000000 Z
+- name: "@storybook/cli"
+  description: Storybook's CLI - easiest method of adding storybook to your projects
+  package_url: https://www.npmjs.com/@storybook/cli
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17704/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 15:35:32.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.5.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.176
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/puppeteer"
+  description: TypeScript definitions for puppeteer
+  package_url: https://www.npmjs.com/@types/puppeteer
+  version: 5.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16766/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.49
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  version: 7.1.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Céline Morin
+  last_updated_on: 2023-08-04 14:08:01.000000000 Z
+- name: "@types/underscore"
+  description: TypeScript definitions for Underscore
+  package_url: https://www.npmjs.com/@types/underscore
+  version: 1.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17484/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.34.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Filips Alpe
+  last_updated_on: 2015-04-08 11:46:56.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: pierallard
+  last_updated_on: 2022-09-19 14:59:40.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 24.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/example/package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2021-04-23 13:09:28.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: babel-minify
+  description: "✂️ An ES6+ aware minifier based on the Babel toolchain"
+  package_url: https://www.npmjs.com/babel-minify
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17113/default_aae1698f13b22e457dce8faa3612b71379cf7a48.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Samir
+  last_updated_on: 2020-09-29 13:59:00.000000000 Z
+- name: babel-polyfill
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/babel-polyfill
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Samir
+  last_updated_on: 2020-09-29 13:59:00.000000000 Z
+- name: bundle-loader
+  description: Bundle loader module for webpack
+  package_url: https://www.npmjs.com/bundle-loader
+  version: 0.5.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17712/default_43c2244142d473ead35e8e5c22850dfec0a06c35.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: jmleroux
+  last_updated_on: 2019-06-26 15:16:38.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Chasle
+  last_updated_on: 2019-11-11 01:54:34.000000000 Z
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  version: 3.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: pierallard
+  last_updated_on: 2021-04-20 10:06:28.000000000 Z
+- name: draft-js
+  description: A React framework for building text editors
+  package_url: https://www.npmjs.com/draft-js
+  version: 0.10.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16886/default_39222bc61d2c4e84c2e001fe7b31e7c8bf5f4832.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2021-04-23 13:09:28.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: eslint-plugin-cypress
+  description: An ESLint plugin for projects using Cypress
+  package_url: https://www.npmjs.com/eslint-plugin-cypress
+  version: 2.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18548/default_0998c3a5bd64540d478b8f189bd9d22c3c17b6a0.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: pierallard
+  last_updated_on: 2022-09-19 14:59:40.000000000 Z
+- name: eslint-plugin-flowtype
+  description: Flowtype linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-flowtype
+  version: 4.6.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 24.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: pierallard
+  last_updated_on: 2022-09-19 14:59:40.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: pierallard
+  last_updated_on: 2022-09-19 14:59:40.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: exports-loader
+  description: Exports loader module for webpack
+  package_url: https://www.npmjs.com/exports-loader
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16572/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: expose-loader
+  description: Expose loader module for webpack
+  package_url: https://www.npmjs.com/expose-loader
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16741/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Julien Sanchez
+  last_updated_on: 2020-10-01 21:38:53.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2020-10-29 11:47:43.000000000 Z
+- name: imports-loader
+  description: Imports loader module for webpack
+  package_url: https://www.npmjs.com/imports-loader
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16422/default_cdeaf2fdc112ae29eada7343314e0eee59c7eb0d.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: jest-fetch-mock
+  description: Fetch mock for jest
+  package_url: https://www.npmjs.com/jest-fetch-mock
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Riff
+  last_updated_on: 2023-04-18 08:49:38.000000000 Z
+- name: jest-puppeteer
+  description: Run your tests using Jest &amp; Puppeteer
+  package_url: https://www.npmjs.com/jest-puppeteer
+  version: 4.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18197/default_9647c06c26a4e72b5da49bb6013fc37e4ffb841f.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2023-02-06 16:24:48.000000000 Z
+- name: jest-styled-components
+  description: Jest utilities for Styled Components
+  package_url: https://www.npmjs.com/jest-styled-components
+  version: 7.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16879/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2023-02-06 16:24:48.000000000 Z
+- name: jest-watch-typeahead
+  description: Jest plugin for filtering by filename or test name
+  package_url: https://www.npmjs.com/jest-watch-typeahead
+  version: 0.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16646/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: json-schema-ref-parser
+  description: Parse, Resolve, and Dereference JSON Schema $ref pointers
+  package_url: https://www.npmjs.com/json-schema-ref-parser
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18337/default_505909b81a0b4c883dedb080d9d7c8b30a5918e8.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2021-10-15 16:26:35.000000000 Z
+- name: loader-utils
+  description: Utils for webpack loaders
+  package_url: https://www.npmjs.com/loader-utils
+  version: 1.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16191/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Valentin Mumble
+  last_updated_on: 2023-07-11 07:26:16.000000000 Z
+  vulnerabilities:
+  - name: Prototype pollution in webpack loader-utils
+    cve_id: CVE-2022-37601
+    cve_url: https://github.com/advisories/GHSA-76p3-8jx3-jpfq
+    detected_date: Nov 5
+    severity: critical
+    first_patched: 1.4.1
+  - name: loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2022-37599
+    cve_url: https://github.com/advisories/GHSA-hhq3-ff78-jv3g
+    detected_date: Nov 16
+    severity: high
+    first_patched: 1.4.2
+  - name: loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS)
+      via url variable
+    cve_id: CVE-2022-37603
+    cve_url: https://github.com/advisories/GHSA-3rfm-jhwj-7488
+    detected_date: Nov 16
+    severity: high
+    first_patched: 1.4.2
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/example/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-is
+  description: Brand checking of React Elements
+  package_url: https://www.npmjs.com/react-is
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-markdown
+  description: Renders Markdown as React components
+  package_url: https://www.npmjs.com/react-markdown
+  version: 5.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-router
+  description: A complete routing library for React
+  package_url: https://www.npmjs.com/react-router
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16058/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: components/identifier-generator/front/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Paul
+  last_updated_on: 2023-07-19 08:45:43.000000000 Z
+- name: read-pkg
+  description: Read a package.json file
+  package_url: https://www.npmjs.com/read-pkg
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17758/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Chasle
+  last_updated_on: 2019-09-30 14:20:01.000000000 Z
+- name: redux-devtools-extension
+  description: Wrappers for Redux DevTools Extension
+  package_url: https://www.npmjs.com/redux-devtools-extension
+  version: 2.13.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17039/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: pierallard
+  last_updated_on: 2023-02-24 09:40:35.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Tseho
+  last_updated_on: 2020-09-28 13:28:45.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: thread-loader
+  description: Runs the following loaders in a worker pool
+  package_url: https://www.npmjs.com/thread-loader
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17547/default_809f38c280e61a39329e5ca5d8a16d8966425895.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.5.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2023-02-06 16:24:48.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2022-12-07 08:18:06.000000000 Z
+- name: tsconfig-paths-webpack-plugin
+  description: Load modules according to tsconfig paths in webpack
+  package_url: https://www.npmjs.com/tsconfig-paths-webpack-plugin
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17311/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Steven VAIDIE
+  last_updated_on: 2023-02-06 16:24:48.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: write-file-webpack-plugin
+  description: Forces webpack-dev-server to write bundle files to the file system
+  package_url: https://www.npmjs.com/write-file-webpack-plugin
+  version: 4.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17727/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tseho
+  last_updated_on: 2023-08-25 10:42:52.000000000 Z
+- name: yamljs
+  description: Standalone JavaScript YAML 1.2 Parser &amp; Encoder
+  package_url: https://www.npmjs.com/yamljs
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16676/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: nicomaligne
+  last_updated_on: 2020-08-05 14:45:36.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 13.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/Wladoo/pim-community-dev/blob/master/front-packages/akeneo-design-system/example/yarn.lock
+  detection_source: front-packages/akeneo-design-system/package.json
+  last_updated_by: Julien Sanchez
+  last_updated_on: 2020-09-29 14:44:59.000000000 Z
